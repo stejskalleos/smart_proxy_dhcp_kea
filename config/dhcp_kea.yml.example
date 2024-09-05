@@ -1,0 +1,9 @@
+---
+# Configuration file for 'dhcp_kea' dhcp provider
+#
+# Use :server setting in dhcp.yml if you are managing a dhcp server which is not localhost.
+
+# Credentials for the KEA Agent (API)
+:username: "admin"
+:password: "changeme"
+
